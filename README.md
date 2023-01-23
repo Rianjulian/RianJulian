@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Frontend Developer and UI/UX Designer, I have more than 1 year of experience in the field of Web Designer and master HTML/CSS, Javascript, PHP, and several Frameworks (Bootstrap, TailwindCSS, Laravel Blade, AJAX, and jQuery) In the UI/UX field, I learned about Design Systems, Color Palettes, UserFlow, and Typography.<br><br>👨‍🚀 I’m currently learning ReactJS, Redux, and NextJS<br>⚡ Fun fact "I'm just trying to look like a Programmer 😁"
+I am a Frontend Developer and UI/UX Designer, I have more than 1 year of experience in the field of Web Designer and master HTML/CSS, Javascript, PHP, and several Frameworks (Bootstrap, TailwindCSS, Laravel Blade, AJAX, and jQuery) In the UI/UX field, I learned about Design Systems, Color Palettes, UserFlow, and Typography.<br><br>👨‍🚀 I’m currently learning**ReactJS, Redux and NextJS**<br>⚡ Fun fact **"I'm just trying to look like a Programmer 😁"**
 
 
 ## 🌐 Socials:
